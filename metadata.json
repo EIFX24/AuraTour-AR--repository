@@ -1,0 +1,10 @@
+{
+  "name": "AuraTour AR - AI Landmark Explorer & Narrator",
+  "description": "Take a city photo to instantly identify landmarks, uncover grounded historical secrets via Google Search, and watch immersive AR-narrated clips.",
+  "requestFramePermissions": [
+    "CAMERA"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
